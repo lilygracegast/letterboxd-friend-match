@@ -33,4 +33,4 @@ This mirrors how real recommendation systems (e.g. LinkedIn, Instagram) blend mu
 This is an active, ongoing project. Next steps: UX wireframes in Figma, competitive analysis write-up, and a process map comparing the current vs. proposed friend-adding flow.
 
 ## Author
-Lily Gast — Business Administration (Information Systems), University of Florida
+Lily Gast — Information Systems, University of Florida
